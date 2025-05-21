@@ -1,16 +1,20 @@
-{
-  "name": "secretbots",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.0",
-    "express": "^4.13.4",
-    "request": "^2.71.0"
-  }
-}
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261575285731870%22%3A%22ZuF0ZRg2%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-05-21T12:02:46.046Z",
+        "lastAccessed": "2025-05-21T12:02:46.047Z"
+    },
+    {
+        "key": "sb",
+        "value": "LyMsaGLWyiV2YFnzokIxkP7Q",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T12:02:46.047Z",
+        "lastAccessed": "2025-05-21T12:02:46.047Z"
+    }
+]
